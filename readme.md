@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently building things that hopefully don’t need a 3 AM bug fix<br>👨‍💻 I’m working with Flutter, Django, Java, React & TypeScript<br>💳 I’ve built fintech apps used by 500K+ users<br>🏥 I build software for fintech, healthcare & real-world problems<br>🌍 I’m interested in technology that works even when the internet doesn’t<br>🧠 I’m currently learning more about AI, system architecture & better software design<br>🤝 I’m looking to collaborate on useful apps, open-source projects & interesting ideas<br>💬 Ask me about Flutter, mobile apps, APIs, Django, fintech or making things work offline<br>⚡ Fun fact: I can spend hours debugging a problem, then discover the solution was one missing character
+
 Note: lots of commits are lost after leaving past organizations that I were working in !
 
 ## 🌐 Socials:
